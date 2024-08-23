@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [https://ashu-portfolio1.vercel.app/](https://ashu-portfolio1.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://ashu-portfolio1.vercel.app/)
 
-- 📝 I regularly solve coding questions on [https://leetcode.com/u/ak_ashu9/](https://leetcode.com/u/ak_ashu9/)
+- 📝 I regularly solve coding questions on [leetcode](https://leetcode.com/u/ak_ashu9/)
 
 - 📫 How to reach me **kashu19march@gmail.com**
 
